@@ -1,0 +1,10 @@
+.lake/
+.work/
+*.zip
+*.olean
+*.olean.*
+*.ilean
+*.ir
+*.trace
+__pycache__/
+axiom-audit.txt
